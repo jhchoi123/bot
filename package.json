@@ -1,0 +1,32 @@
+{
+  "name": "rflxn_discord_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "prerun": "npm run build",
+    "run": "node dist/main.js",
+    "run-bot": "node dist/discordBot.js",
+    "prerun-bot": "npm run build",
+    "run-auth-server": "node dist/bungieAuthServer.js",
+    "prerun-auth-server": "npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "discord.js": "^13.0.0",
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1",
+    "oracledb": "^5.2.0"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.1",
+    "@types/express": "^4.17.13",
+    "@types/node": "^15.14.7",
+    "@types/node-fetch": "^2.5.12",
+    "@types/oracledb": "^5.2.1"
+  }
+}

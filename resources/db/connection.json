@@ -1,0 +1,12 @@
+{
+  "transactionDB": {
+    "connectionString": "transactiondb_tp",
+    "userName": "solid2113",
+    "password": "Reflectly1494!"
+  },
+  "jsonDB": {
+    "connectionString": "jsondb_tp",
+    "userName": "ADMIN",
+    "password": "Reflectly1494!"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "authServer": {
+    "port": 3000
+  }
+}

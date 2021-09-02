@@ -1,0 +1,6 @@
+{
+  "apiKey": "KEY",
+  "oAuthClientId": 11111,
+  "oAuthClientSecret": "SECRET",
+  "isSecret": true
+}

@@ -1,0 +1,109 @@
+[
+  {
+    "name": "Vanguard",
+    "kr": "선봉대 작전",
+    "isGroup": true,
+    "activities": [
+      {
+        "name": "Strike",
+        "kr": "공격전"
+      },
+      {
+        "name": "Nightfall",
+        "kr": "황혼전"
+      }
+    ]
+  },
+  {
+    "name": "Season Activities",
+    "kr": "시즌 활동",
+    "isGroup": false
+  },
+  {
+    "name": "Raid",
+    "kr": "레이드",
+    "isGroup": true,
+    "activities": [
+      {
+        "name": "Vault of Glass",
+        "kr": "유리 금고"
+      },
+      {
+        "name": "Deep Stone Crypt",
+        "kr": "딥스톤 무덤"
+      },
+      {
+        "name": "Garden of Salvation",
+        "kr": "구원의 정원"
+      },
+      {
+        "name": "Last Wish",
+        "kr": "마지막 소원"
+      }
+    ]
+  },
+  {
+    "name": "Dungeons",
+    "kr": "던전",
+    "isGroup": true,
+    "activities": [
+      {
+        "name": "Shattered Throne",
+        "kr": "조각난 왕관"
+      },
+      {
+        "name": "Pit of Heresy",
+        "kr": "이단의 구덩이"
+      },
+      {
+        "name": "Prophecy",
+        "kr": "예언"
+      },
+      {
+        "name": "Harbinger",
+        "kr": "선각자"
+      },
+      {
+        "name": "Presage",
+        "kr": "예지"
+      }
+    ]
+  },
+  {
+    "name": "Crucible",
+    "kr": "시련의 장",
+    "isGroup": true,
+    "activities": [
+      {
+        "name": "Control",
+        "kr": "점령"
+      },
+      {
+        "name": "Survival",
+        "kr": "생존"
+      },
+      {
+        "name": "Iron Banner",
+        "kr": "강철 깃발"
+      },
+      {
+        "name": "Trials of Osiris",
+        "kr": "오시리스의 시험"
+      },
+      {
+        "name": "Other Crucibles",
+        "kr": "그 외 시련의 장"
+      }
+    ]
+  },
+  {
+    "name": "Gambit",
+    "kr": "갬빗",
+    "isGroup": false
+  },
+  {
+    "name": "Others",
+    "kr": "기타",
+    "isGroup": false
+  }
+]
